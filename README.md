@@ -151,5 +151,3 @@ Pastikan:
 - Fokus masa depan: AI + Mobile + Optimasi perangkat
 
 ---
-
-⭐ Jika membantu, silakan gunakan dan modifikasi untuk tugas atau project pribadi.
